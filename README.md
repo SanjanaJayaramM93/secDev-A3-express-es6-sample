@@ -54,6 +54,21 @@ This project demonstrates a secure CI/CD pipeline for deploying a Python-based w
     ```bash 
     clair-scanner --ip <your-ip> nextcloud-image  
 5. Monitor logs and metrics using AWS CloudWatch.
+## Sample Images
+
+Portainer dashboard
+![image](https://github.com/user-attachments/assets/29ace8b1-8128-4aef-9312-eb06660dd8c5)
+
+NextCloud Interface
+![image](https://github.com/user-attachments/assets/15d222a6-2de7-4cc8-b958-5ba9c24ebc51)
+
+Building Process Completed
+![image](https://github.com/user-attachments/assets/b04c344c-4e3c-4a9e-a1cb-0f3d12ca7009)
+
+Pipeline Execution
+![image](https://github.com/user-attachments/assets/8aea54da-2aa5-4011-a0a5-3b26db32fdbb)
+
+
 
 ## Key Skills Demonstrated
 Secure DevOps Practices
